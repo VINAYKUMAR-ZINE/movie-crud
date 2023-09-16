@@ -1,5 +1,5 @@
 ** MOVIES CRUD **
-in this project we can
+/in this project we can/
 
 - create a move
 - delete a movie
